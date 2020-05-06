@@ -19,4 +19,3 @@ For convenience, there are several MIDI song files included in the music folder.
 Below are some example images that a visualization might render.
 ![Example image 1](exampleImages/example1.png)
 ![Example image 2](exampleImages/example2.png)
-![Example image 3](exampleImages/example3.png)
